@@ -38,7 +38,8 @@ The index integrates multiple dimensions of developer concentration, automation 
    - Comparative analysis with adjacent financial software ecosystems.  
 
 ## Tools & Libraries
-- **Python**: pandas, NumPy, scikit-learn, PyTorch  
+- **Python**: pandas, NumPy, scikit-learn, PyTorch
+- **Bash**: querying big data
 - **NLP**: HuggingFace Transformers, TF-IDF vectorizers  
 - **Network Analysis**: NetworkX, igraph  
 - **Statistical Methods**: bootstrap resampling, robust scaling  
