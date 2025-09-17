@@ -1,8 +1,10 @@
 # Master's Thesis: Fragility Index for Ethereum's Open-Source Ecosystem (in progress)
 
+# A special thank you to Trevor Jacka from Builder.love for providing the data used in this thesis
+
 ## Overview
 This project develops a **fragility index** to measure systemic risk in the Ethereum open-source ecosystem, treating protocol repositories as a networked system.  
-The index integrates multiple dimensions of developer concentration, automation balance, and core structure, and tests whether these structural patterns anticipate stress events such as liquidity crunches, price drawdowns, or repository abandonment.  
+The index integrates multiple dimensions of developer concentration, automation balance, and core structure, and tests whether these structural patterns anticipate stress events such as liquidity crunches, price drawdowns, or repository abandonment.
 
 ## Objectives
 - Construct a fragility index that captures systemic vulnerabilities in Ethereum’s developer ecosystem.  
@@ -12,7 +14,7 @@ The index integrates multiple dimensions of developer concentration, automation 
 
 ## Methodology
 1. **Data Collection**  
-   - Extracted contributor and commit data from Ethereum-related GitHub repositories.  
+   - Extracted contributor and commit data from Ethereum-related GitHub repositories using the Builder.love data warehouse (contains over 900 million commits and 1 million repos)
    - Augmented with financial/market data for ETH and comparable financial software projects.  
 
 2. **Fragility Index Construction**  
@@ -34,11 +36,6 @@ The index integrates multiple dimensions of developer concentration, automation 
 4. **Evaluation**  
    - Benchmarked fragility index against ETH price drawdowns, liquidity crunches, and repository abandonment.  
    - Comparative analysis with adjacent financial software ecosystems.  
-
-## Results (in progress)
-- Preliminary fragility index scores reveal high concentration risk in select Ethereum core repositories.  
-- Early ML tests suggest commit-text sentiment and structural concentration features improve prediction of ecosystem stress events.  
-- Final results will integrate full validation across ETH and other financial open-source systems.  
 
 ## Tools & Libraries
 - **Python**: pandas, NumPy, scikit-learn, PyTorch  
