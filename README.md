@@ -1,6 +1,6 @@
 # Master's Thesis: Fragility Index for Ethereum's Open-Source Ecosystem (in progress)
 
-# A special thank you to Trevor Jacka from Builder.love for providing the data used in this thesis
+A special thank you to Trevor Jacka from Builder.love for providing the data used in this thesis
 
 ## Overview
 This project develops a **fragility index** to measure systemic risk in the Ethereum open-source ecosystem, treating protocol repositories as a networked system.  
