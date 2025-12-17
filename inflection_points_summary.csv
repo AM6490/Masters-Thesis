@@ -1,0 +1,27 @@
+project,category,metric,type,time,value,characteristic
+EOS,Stagnated,Bus Factor,Sudden Decrease,3,-0.0005858208029560774,moderate
+EOS,Stagnated,Density,Sudden Decrease,0,-4.306030702823068e-05,moderate
+EOS,Stagnated,Gini (Inequality),Sudden Increase,3,0.010760675740389525,moderate
+EOS,Stagnated,Redundancy,Sudden Increase,3,0.0014124331753793892,moderate
+EOS,Stagnated,Vulnerability (Critical Fraction),Sudden Increase,1,0.00013494239066253605,moderate
+EOS,Stagnated,Vulnerability (Critical Fraction),Sudden Decrease,4,-0.00012058263722981855,moderate
+Maple,Grew,Bus Factor,Sudden Decrease,0,-0.017647058823529405,moderate
+Maple,Grew,Bus Factor,Sudden Increase,2,0.0111111111111111,moderate
+Maple,Grew,Density,Sudden Increase,0,0.010168467175341839,moderate
+Maple,Grew,Density,Sudden Decrease,2,-0.015344376634699203,moderate
+Maple,Grew,Gini (Inequality),Sudden Increase,0,0.014618066477928071,moderate
+Maple,Grew,Gini (Inequality),Sudden Decrease,2,-0.013962814675249846,moderate
+Maple,Grew,Redundancy,Sudden Decrease,0,-0.010681256950887175,moderate
+Maple,Grew,Vulnerability (Critical Fraction),Sudden Increase,0,0.005723443223443217,moderate
+Maple,Grew,Vulnerability (Critical Fraction),Sudden Decrease,2,-0.00888000888000888,moderate
+UniLend,Failure,Bus Factor,Sudden Decrease,0,-0.023809523809523808,moderate
+UniLend,Failure,Density,Sudden Decrease,0,-0.01607142857142857,moderate
+UniLend,Failure,Gini (Inequality),Sudden Increase,0,0.00833333333333336,moderate
+UniLend,Failure,Redundancy,Sudden Decrease,0,-0.004391534391534335,moderate
+UniLend,Failure,Vulnerability (Critical Fraction),Sudden Decrease,0,-0.009803921568627472,moderate
+Uniswap,Healthy,Bus Factor,Sudden Increase,4,0.0020663268894442442,moderate
+Uniswap,Healthy,Density,Sudden Decrease,0,-0.0034173611270318267,moderate
+Uniswap,Healthy,Gini (Inequality),Sudden Decrease,4,-0.011380733038497848,moderate
+Uniswap,Healthy,Redundancy,Sudden Decrease,0,-0.006967951981694831,moderate
+Uniswap,Healthy,Vulnerability (Critical Fraction),Sudden Increase,1,0.0004881260125227313,moderate
+Uniswap,Healthy,Vulnerability (Critical Fraction),Sudden Decrease,4,-0.0004385964912280646,moderate

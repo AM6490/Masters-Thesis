@@ -1,0 +1,5 @@
+Category,Strong_Positive,Strong_Negative,Weak,Total,Most_Influential,Most_Influenced
+Failures,12,9,4,25,Bus Factor,Gini
+Grew,11,7,7,25,Vulnerability,Density
+Healthy,14,8,3,25,Bus Factor,Vulnerability
+Stagnated,12,7,6,25,Density,Vulnerability
