@@ -7,8 +7,6 @@ Arsh Misra, Columbia University (2025)
 
 The study analyzes the structural evolution of open-source developer activity in decentralized finance (DeFi) protocols using contributor–repository bipartite networks and rolling panel vector autoregression (PVAR).
 
----
-
 ## Repository Contents
 
 The repository includes:
@@ -29,8 +27,6 @@ The repository includes:
 - **README.md**
   - Documentation describing data provenance and analysis workflow
 
----
-
 ## Data Availability and Provenance
 
 All data used in the analysis are included directly in this repository and are publicly accessible.
@@ -39,7 +35,6 @@ The dataset was originally derived from a third-party platform aggregating open-
 
 Because the original source is no longer available, the data cannot be regenerated independently. However, all processed data used in the analysis are preserved in this repository to ensure transparency and reproducibility of the reported results.
 
----
 
 ## Reproducibility
 
@@ -54,15 +49,12 @@ The analysis pipeline follows these steps:
 5. Computation of Frobenius norms to summarize changes in system dynamics
 6. Visualization and aggregation of results by project category
 
----
 
 ## Notes
 
 - The analysis is descriptive and retrospective.
 - The PVAR framework is used to characterize short-run structural momentum, not to establish causal effects or predictive classification.
 - All code was executed using standard Python data science libraries.
-
----
 
 ## Contact
 
